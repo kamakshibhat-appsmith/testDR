@@ -6,6 +6,11 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "test1qq1"
+      }
+    ],
     "inputs": {},
     "moduleInputs": {
       "ctobclpwxo": {},
