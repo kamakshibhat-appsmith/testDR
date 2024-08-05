@@ -6,11 +6,6 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "dynamicBindingPathList": [
-      {
-        "key": "test1qq1"
-      }
-    ],
     "inputs": {},
     "moduleInputs": {
       "ctobclpwxo": {},
@@ -18,6 +13,6 @@
     },
     "name": "JSModule21",
     "pageId": "Page1",
-    "version": "0.0.25"
+    "version": "0.0.26"
   }
 }
