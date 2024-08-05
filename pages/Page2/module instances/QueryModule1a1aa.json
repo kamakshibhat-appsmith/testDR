@@ -6,14 +6,12 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "input1": "1"
-    },
+    "inputs": {},
     "moduleInputs": {
       "cbetscgllw": {}
     },
     "name": "QueryModule1a1aa",
     "pageId": "Page2",
-    "version": "0.0.18"
+    "version": "0.0.25"
   }
 }

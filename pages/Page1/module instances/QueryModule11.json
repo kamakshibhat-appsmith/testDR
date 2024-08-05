@@ -7,14 +7,12 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "dynamicBindingPathList": [],
-    "inputs": {
-      "input1": "1"
-    },
+    "inputs": {},
     "moduleInputs": {
       "cbetscgllw": {}
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.18"
+    "version": "0.0.25"
   }
 }

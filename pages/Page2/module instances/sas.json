@@ -6,16 +6,13 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "myFun2q": "[]",
-      "test11q": "[\"{{3}}\"]"
-    },
+    "inputs": {},
     "moduleInputs": {
       "pghivwfkgf": {},
       "tvduqyalxk": {}
     },
     "name": "sas",
     "pageId": "Page2",
-    "version": "0.0.18"
+    "version": "0.0.25"
   }
 }
