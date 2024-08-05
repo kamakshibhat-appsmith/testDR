@@ -9,6 +9,6 @@ export default {
 	async myFun2 () {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
-		return QueryModule11.run({ input1: "2" })
+		return QueryModule1a1.run({ input1: "1" })
 	}
 }
