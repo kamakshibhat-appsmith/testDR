@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1q2111a": "[\"{{3}}\"]",
+      "myFun1q2111anew": "[\"{{3}}\"]",
       "myFun2q": "[]"
     },
     "moduleInputs": {
@@ -16,6 +16,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.7"
+    "version": "0.0.8"
   }
 }
