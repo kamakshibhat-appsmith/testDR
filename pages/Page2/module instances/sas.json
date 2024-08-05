@@ -1,0 +1,21 @@
+{
+  "gitSyncId": "66b088995afb277e9c718e8c_9afebd99-0583-4678-a5f7-6937ad4c6080",
+  "id": "Page2_sas",
+  "moduleUUID": "9e7accfc-cf6b-4017-88e2-81044dc9b910",
+  "packageUUID": "24774ab8-ba83-4469-bba1-47fbbe3fc3dd",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "myFun2q": "[]",
+      "test11q": "[\"{{3}}\"]"
+    },
+    "moduleInputs": {
+      "pghivwfkgf": {},
+      "tvduqyalxk": {}
+    },
+    "name": "sas",
+    "pageId": "Page2",
+    "version": "0.0.18"
+  }
+}

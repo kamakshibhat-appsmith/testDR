@@ -4,10 +4,11 @@ export default {
 	myFun1111 () {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
-		return JSModule11.myFun1q2111anew()
+		return JSModule11.test11q()
 	},
 	async myFun2 () {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
+		return QueryModule11.run({ input1: "2" })
 	}
 }

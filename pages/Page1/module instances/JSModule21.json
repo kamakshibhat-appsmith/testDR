@@ -6,9 +6,14 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "test1qq1"
+      }
+    ],
     "inputs": {
       "myFun2": "[]",
-      "test1qq1": "[\"{{1}}\"]"
+      "test1qq1": "[\"{{11}}\"]"
     },
     "moduleInputs": {
       "ctobclpwxo": {},
