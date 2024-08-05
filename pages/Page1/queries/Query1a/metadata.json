@@ -1,11 +1,11 @@
 {
   "gitSyncId": "66b0aa586a364f27697392c3_65d417f0-f945-4bdc-a70a-cbec4c72ae1e",
-  "id": "Page1__$Query1$_Query1Module1",
+  "id": "Page1__$Query1a$_Query1Module1",
   "isPublic": true,
-  "moduleInstanceId": "Page1_Query1",
+  "moduleInstanceId": "Page1_Query1a",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
-  "rootModuleInstanceId": "Page1_Query1",
+  "rootModuleInstanceId": "Page1_Query1a",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
@@ -15,7 +15,7 @@
       "pluginId": "postgres-plugin"
     },
     "executeOnLoad": false,
-    "name": "_$Query1$_Query1Module1",
+    "name": "_$Query1a$_Query1Module1",
     "pageId": "Page1",
     "userSetOnLoad": false
   }
