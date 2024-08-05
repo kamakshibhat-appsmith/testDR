@@ -4,7 +4,7 @@ export default {
 	myFun1111 () {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
-		return JSModule11.test11q()
+		return JSModule11a.test11q()
 	},
 	async myFun2 () {
 		//	use async-await or promises
